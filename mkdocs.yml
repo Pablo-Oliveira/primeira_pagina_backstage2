@@ -1,0 +1,7 @@
+site_name: "Primeiro_Modelo_Backstage2 Docs"
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
